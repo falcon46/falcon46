@@ -891,6 +891,9 @@ footer.site-footer {
   padding-bottom: 2rem;
   color: #9e9e9e;
 }
+footer.site-footer a {
+  color: #9e9e9e;
+}
 footer.site-footer a:hover {
   color: #f03838;
 }
